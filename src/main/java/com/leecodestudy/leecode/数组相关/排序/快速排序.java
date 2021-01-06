@@ -1,4 +1,4 @@
-package com.leecodestudy.leecode.数组相关;
+package com.leecodestudy.leecode.数组相关.排序;
 
 import java.util.Arrays;
 
