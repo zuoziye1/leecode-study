@@ -1,5 +1,8 @@
 package com.leecodestudy.leecode.数组相关;
 
+/**
+ * 二分查找
+ */
 public class 二分查找 {
 
     public static void main(String[] args) {
